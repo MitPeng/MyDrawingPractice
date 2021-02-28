@@ -1,2 +1,3 @@
-# MyDrawingPractice
-Just as a pastime.
+# My Drawing Practice
+
+Just for fun.
